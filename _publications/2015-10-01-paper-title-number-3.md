@@ -2,7 +2,7 @@
 title: "Assessing the impacts of pre-growing-season weather conditions on soil nitrogen dynamics and corn productivity in the US Midwest"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper assesses the impacts of pre-growing-season weather conditions on soil nitorgen dynamics and corn productivity in the U.S. Midwestk.'
+excerpt: 'This paper assesses the impacts of pre-growing-season weather conditions on soil nitorgen dynamics and corn productivity in the U.S. Midwest.'
 date: 2022-05-07
 venue: 'Field Crops Research'
 paperurl: 'https://doi.org/10.1016/j.fcr.2022.108563'
