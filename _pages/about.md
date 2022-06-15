@@ -38,4 +38,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info can be found in [the guide](https://ziyili5.github.io/markdown/), and you can send email to this [address] (ziyili5@illinois.edu).
+More info can be found in [the guide](https://ziyili5.github.io/markdown/), and you can contact with me through this [email](ziyili5@illinois.edu).
