@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Hydrology and Water Resources Engineering, Wuhan University, 2017
+* M.S. in Hydraulic Engineering, Wuhan University, 2019
+* Ph.D in Natural Resources and Environmental Sciences, University of Illinois-Champaign, 2024 (expected)
 
 Work experience
 ======
