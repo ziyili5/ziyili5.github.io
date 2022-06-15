@@ -17,25 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Assistant Engineer
+  * Northwest Engineering Corporation Limited
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Machine Learning
+* Python, R, and C++
+* ESRI software
+  * ARCGIS
+  * ENVY
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
