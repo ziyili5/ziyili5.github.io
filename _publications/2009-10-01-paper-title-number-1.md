@@ -12,5 +12,4 @@ This paper is about evaluating several state-of-art remote sensing preciptiation
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Chen, J., Li, Z., Li, L., Wang, J., Qi, W., Xu, C. Y., & Kim, J. S.
-(2020). "Evaluation of multi-satellite precipitation datasets and their error propagation in hydrological modeling in a monsoon-prone region" <i>Remote Sensing</i>. 12(21).
+Recommended citation: Chen, J., Li, Z., Li, L., Wang, J., Qi, W., Xu, C. Y., & Kim, J. S. (2020). "Evaluation of multi-satellite precipitation datasets and their error propagation in hydrological modeling in a monsoon-prone region" <i>Remote Sensing</i>. 12(21).
