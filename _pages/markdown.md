@@ -10,7 +10,7 @@ redirect_from:
 ## Travel
 * Several european countries including Netherlands, Belglum, France, Switzerland, Germany, Italy, and Vatican (2017)
 * Lincoln, NE (2020)
-* Great Smoky Mountains-Atlanta(2021)
+* Great Smoky Mountains-Atlanta (2021)
 * Buffalo, NY (2021)
 
 ## Sports
