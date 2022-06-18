@@ -8,7 +8,7 @@ date: 2022-03-01
 location: "City, Country"
 ---
 
-This is a [kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/description) competitation project, which uses datasets combining with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa to predict the final price of each home. 
+This is a [kaggle competitation project](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/description), which uses datasets combining with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa to predict the final price of each home. 
 
 Heading 1
 ======
