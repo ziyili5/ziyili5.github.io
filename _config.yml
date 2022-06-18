@@ -235,7 +235,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comment: false    
+      comments: false
   # _talks
   - scope:
       path: ""
