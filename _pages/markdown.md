@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Travel"
+title: "Sparetime life"
 author_profile: true
 redirect_from: 
   - /md/
