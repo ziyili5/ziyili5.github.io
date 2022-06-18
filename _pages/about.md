@@ -21,7 +21,7 @@ Process-based modeling
 
 Advanced measurements
 ------
-[Aerodyne TILDAS sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
+[Aerodyne GHG sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
 
 Data fusion
 ------
