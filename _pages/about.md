@@ -33,7 +33,3 @@ Website-based tools development
 
 
 ![Editing a markdown file for a talk](/images/farming.png)
-
-For more info
-------
-Please contact with ziyili5@illinois.edu.
