@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyi Li, a Phd students advised by Prof. Kaiyu Guan at [Department of Natural Resources and Environmental Sciences](https://nres.illinois.edu/),[University of Illinois Urbana-Champaign](https://illinois.edu/). I am conducting multidispline studies to solve problems related to nitrogen cycling in agroecosystems. I am also a lifelong learner who wishes to study the state-of-art techniques, including machine learning and deep learning.
+I am Ziyi Li, a Phd students advised by [Prof. Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) at [Department of Natural Resources and Environmental Sciences](https://nres.illinois.edu/),[University of Illinois Urbana-Champaign](https://illinois.edu/). I am conducting multidispline studies to solve problems related to nitrogen cycling in agroecosystems. I am also a lifelong learner who wishes to study the state-of-art techniques, including machine learning and deep learning.
+
+
+
+
 
 
 My research interests
