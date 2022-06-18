@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyi Li, an Phd students in University of Illinois Urbana-Champaign conducting multidispline studies to solve problems related to nitrogen cycling in the agroecosystems. I am also a lifelong learner who wishes to study the state-of-art techniques, including [machine learning and deep learning] (https://github.com/academicpages/academicpages.github.io).
+I am Ziyi Li, an Phd students in University of Illinois Urbana-Champaign conducting multidispline studies to solve problems related to nitrogen cycling in the agroecosystems. I am also a lifelong learner who wishes to study the state-of-art techniques, including 
+[machine learning and deep learning](https://pages.github.com/).
 
 My research interests
 ======
