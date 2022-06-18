@@ -3,7 +3,7 @@ title: "Project 1 (House Prices Prediction)"
 collection: teaching
 type: "Advanced Regression Techniques"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Online competition"
 date: 2022-03-01
 location: "City, Country"
 ---
