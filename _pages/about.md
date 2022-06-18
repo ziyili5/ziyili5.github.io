@@ -25,8 +25,7 @@ Advanced measurements
 
 Data fusion
 ------
-[Fusion multi-sources nitrogen related data]([https://harvest.ncsa.illinois.edu/](https://www.hindawi.com/journals/tswj/2013/704504/))
-
+[Fusion multi-sources nitrogen related data](https://harvest.ncsa.illinois.edu/](https://www.hindawi.com/journals/tswj/2013/704504/)
 
 Website-based tools development 
 ------
