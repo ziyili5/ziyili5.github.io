@@ -51,9 +51,3 @@ redirect_from:
 | cell4   | cell5   | cell6   |
 |=============================|
 | Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
