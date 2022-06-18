@@ -48,4 +48,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member of American Geophysical Union
+* Co-founder of Luoyin Studio
