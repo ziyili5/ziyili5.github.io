@@ -32,8 +32,7 @@ Website-based tools development
 [Next generation fertilizer tool](https://harvest.ncsa.illinois.edu/)
 
 
-World cropland map
-![Editing a markdown file for a talk](/images/world_cropland.png)
+![Editing a markdown file for a talk](/images/farming.png)
 
 For more info
 ------
