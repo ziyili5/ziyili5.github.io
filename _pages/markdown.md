@@ -20,3 +20,11 @@ redirect_from:
 ## Influential books
  * 《Robinson Crusoe》- Daniel Defoe（2012）
  * 《Gone with the wind》-Margaret Mitchell (2013)
+ * 《Red Sorghum》-Mo Yan (2014)
+ * 《A Global History: From Prehistory to the 21st Century》-Leften Stavros Stavrianos (2015)
+ * 《Ordinary World》-Lu Yao (2016)
+ * 《The Moon and Sixpence》-William Somerset Maugham (2017)
+ * 《A Brief History of Humankind》-Yuval Noah Harari (2018)
+ * 《A Brief History of Tomorrow》-Yuval Noah Harari (2019)
+ * 《Writing Science》-Joshua Schimel（2020）
+ * 《The Crowd》 -Gustave Le Bon （2021)
