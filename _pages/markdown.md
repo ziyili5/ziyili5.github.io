@@ -19,17 +19,6 @@ redirect_from:
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-
 ## Tables
 
 ### Table 1
