@@ -34,5 +34,4 @@ World cropland map
 
 For more info
 ------
-#More info can be found in [the guide](https://ziyili5.github.io/markdown/), and you can contact with ziyili5@illinois.edu.
 If you have any questions, please contact with ziyili5@illinois.edu.
