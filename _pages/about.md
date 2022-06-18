@@ -19,16 +19,18 @@ My research interests
 ======
 I am fousing on combining measurements data (field measurements and remote sensing data), and advanced bipgeochemical modeling tools to solve practical problems in agriculture field, including management practices like fertilizer application, crop rotations, and tile drainage. Basically, I want to integrate differents methods to help quantity the nitrogen cycling processes in the environment, like crop N uptake (crop productivity), Nitrous oxide emissions, and nutrients leaching.
 
-
 Process-based modeling
 ------
 [Ecosys model](https://ecosys.ualberta.ca/)
+
 Advanced measurements
 ------
 [Aerodyne GHG sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
+
 Data fusion
 ------
 [Fusion multi-sources agriculture data](https://www.hindawi.com/journals/tswj/2013/704504/)
+
 Tools development 
 ------
 [Next generation fertilizer application tool](https://harvest.ncsa.illinois.edu/)
