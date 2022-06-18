@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 2"
+title: "Store Sales Forecasting"
 collection: teaching
-type: "Workshop"
+type: "Time Series Forecasting"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Online competition"
+date: 2022-06-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a [kaggle competitation project](https://www.kaggle.com/competitions/store-sales-time-series-forecasting), which builds models that more accurately predicts the unit sales for thousands of items sold at different Favorita stores by utilizing deep learning with an approachable training dataset of dates, store, and item information, promotions, and unit sales. 
 
-Heading 1
+Data clean
 ======
 
-Heading 2
+Deep learing models application
 ======
 
-Heading 3
+Results demonstration
 ======
+
+
+
+
+
+
