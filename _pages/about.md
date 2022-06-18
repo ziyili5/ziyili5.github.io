@@ -29,7 +29,7 @@ Advanced measurements
 Data fusion
 ------
 [Fusion multi-sources agriculture data](https://www.hindawi.com/journals/tswj/2013/704504/)
-Website-based tools development 
+Tools development 
 ------
 [Next generation fertilizer tool](https://harvest.ncsa.illinois.edu/)
 
