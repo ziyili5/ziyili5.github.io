@@ -1,5 +1,5 @@
 ---
-title: "Project 1 (House Prices Prediction)"
+title: "House Prices Prediction"
 collection: teaching
 type: "Advanced Regression Techniques"
 permalink: /teaching/2014-spring-teaching-1
