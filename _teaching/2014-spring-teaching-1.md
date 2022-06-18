@@ -10,11 +10,11 @@ location: "City, Country"
 
 This is a [kaggle competitation project](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview/description), which uses datasets combining with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa to predict the final price of each home. 
 
-Heading 1
+Data clean
 ======
 
-Heading 2
+Machine learing models application
 ======
 
-Heading 3
+Results demonstration
 ======
