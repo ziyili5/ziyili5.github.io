@@ -23,15 +23,12 @@ I am fousing on combining measurements data (field measurements and remote sensi
 Process-based modeling
 ------
 [Ecosys model](https://ecosys.ualberta.ca/)
-
 Advanced measurements
 ------
 [Aerodyne GHG sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
-
 Data fusion
 ------
 [Fusion multi-sources agriculture data](https://www.hindawi.com/journals/tswj/2013/704504/)
-
 Website-based tools development 
 ------
 [Next generation fertilizer tool](https://harvest.ncsa.illinois.edu/)
