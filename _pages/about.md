@@ -17,15 +17,15 @@ I am fousing on combining measurements data (field measurements and remote sensi
 
 Process-based modeling
 ------
-[Ecosys modeling](https://ecosys.ualberta.ca/)
+[Ecosys model](https://ecosys.ualberta.ca/)
 
 Advanced measurements
 ------
-[Aerodyne TILDAS](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
+[Aerodyne TILDAS sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
 
 Data fusion
 ------
-[Fusion multi-sources nitrogen related data](https://harvest.ncsa.illinois.edu/](https://www.hindawi.com/journals/tswj/2013/704504/)
+[Fusion multi-sources nitrogen related data](https://www.hindawi.com/journals/tswj/2013/704504/)
 
 Website-based tools development 
 ------
