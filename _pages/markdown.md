@@ -8,11 +8,15 @@ redirect_from:
 ---
 
 ## Travel
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-
+* Several european countries including Netherlands, Belglum, France, Switzerland, Germany, Italy, and Vatican (2017)
+* Lincoln, NE (2020)
+* Great Smoky Mountains-Atlanta(2021)
+* Buffalo, NY (2021)
 
 ## Sports
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * I am a super basketball fan of [Miami Heat](https://www.nba.com/heat/home), and we organized a local basketball team in Urbana, Illinois.
+ * I am also fascinated by biking, and biking around the Hainan island is one of my most unforgettable experiences.
 
-## 
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+## Influential books
+ * 《Robinson Crusoe》- Daniel Defoe（2012）
+ * 《Gone with the wind》-Margaret Mitchell (2013)
