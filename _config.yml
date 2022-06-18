@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Ziyi Li"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Champaign, Illinois"
+  location         : "Urbana, Illinois"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=bzl-vAUAAAAJ"
-  email            :
+  email            : "ziyili5@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -236,14 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
