@@ -27,7 +27,7 @@ Advanced measurements
 ------
 [Aerodyne GHG sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
 
-Data fusion
+Data-model fusion
 ------
 [Fusion multi-sources agriculture data](https://www.hindawi.com/journals/tswj/2013/704504/)
 
