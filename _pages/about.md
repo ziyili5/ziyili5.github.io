@@ -23,7 +23,7 @@ Process-based modeling
 ------
 [Ecosys model](https://ecosys.ualberta.ca/)
 
-Advanced measurements
+Advanced measurement
 ------
 [Aerodyne GHG sensor](https://www.aerodyne.com/product/laser-trace-gas-and-isotope-analyzers/)
 
