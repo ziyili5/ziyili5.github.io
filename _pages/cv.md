@@ -15,10 +15,10 @@ Education
 * M.S. in Hydraulic Engineering, Wuhan University, 2019
 * Ph.D in Natural Resources and Environmental Sciences (Minor in Statistics), University of Illinois-Champaign, 2024
 
-Work experience
+Experience
 ======
-* Summer 2018: Assistant Engineer
-  * Northwest Engineering Corporation Limited
+* Fall   2022 (Intern): Research Scientist, HabiTerre  
+* Summer 2018 (Intern): Assistant Engineer, Northwest Engineering Corporation Limited
 
 Skills
 ======
