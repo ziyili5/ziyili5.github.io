@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Sparetime life"
+title: "Spare-time activity"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 ## Travel
-* Several european countries including Netherlands, Belglum, France, Switzerland, Germany, Italy, and Vatican (2017)
-* Lincoln, NE (2020)
-* Great Smoky Mountains-Atlanta (2021)
-* Buffalo, NY (2021)
+* Several european countries including Netherlands, Belglum, France, Switzerland, Germany, Italy, and Vatican (2017 summer)
+* Lincoln, NE (2020 winter)
+* Great Smoky Mountains-Atlanta (2021 winter)
+* Buffalo, NY (2021 winter)
+* Santa Fe, NM (2022 summer) 
 
 ## Sports
  * I am a super basketball fan of [Miami Heat](https://www.nba.com/heat/home), and we organized a local basketball team in Urbana, Illinois.
