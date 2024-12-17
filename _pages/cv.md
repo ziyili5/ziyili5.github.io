@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. & M.S. in Hydrology and Water Resources Engineering, Wuhan University, 2019
-* Ph.D in Natural Resources and Environmental Sciences (Minor in Statistics), University of Illinois-Champaign, 2024
+* Ph.D. in Natural Resources and Environmental Sciences (Minor in Statistics), University of Illinois-Champaign, 2024
 
 Experience
 ======
