@@ -13,8 +13,8 @@ Education
 ======
 * B.S. in Hydrology and Water Resources Engineering, Wuhan University, 2017
 * M.S. in Hydraulic Engineering, Wuhan University, 2019
-* Ph.D in Natural Resources and Environmental Sciences, University of Illinois-Champaign, 2024 (expected)
-* M.S. in Computer Science, Georgia Institute of Technology, 2024 (expected)
+* Ph.D in Natural Resources and Environmental Sciences (Minor in Statistics), University of Illinois-Champaign, 2024
+* M.S. in Computer Science, Georgia Institute of Technology, 2025
 
 Work experience
 ======
@@ -25,9 +25,8 @@ Skills
 ======
 * Machine Learning
 * Python, R, and C++
-* ESRI software
-  * ARCGIS
-  * ENVY
+* Spark, Hadoop, SQL,SPSS
+* ArcGIS/QGIS
   
 Publications
 ======
@@ -50,4 +49,4 @@ Projects
 Service and leadership
 ======
 * Member of American Geophysical Union
-* Co-founder of Luoyin Studio
+* Co-founder of RockSeal Studio
