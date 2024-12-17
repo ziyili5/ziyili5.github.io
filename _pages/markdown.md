@@ -12,7 +12,13 @@ redirect_from:
 * Lincoln, NE (2020 winter)
 * Great Smoky Mountains-Atlanta (2021 winter)
 * Buffalo, NY (2021 winter)
-* Santa Fe, NM (2022 summer) 
+* Santa Fe, NM (2022 summer)
+* Puerto Rico（2022 winter)
+* Dells, WI (2023 summer)
+* Kauai, HI (2023 winter)
+* Mexico city (2024 summer)
+* Washington, D.C. (2024 winter)
+
 
 ## Sports
  * I am a super basketball fan of [Miami Heat](https://www.nba.com/heat/home), and we organized a local basketball team in Urbana, Illinois.
