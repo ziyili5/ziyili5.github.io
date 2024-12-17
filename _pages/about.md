@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziyi Li, a Phd students advised by [Prof. Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) at [Department of Natural Resources and Environmental Sciences](https://nres.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I am conducting multidispline studies to solve problems related to nitrogen cycling in agroecosystems. I am also a lifelong learner who wishes to study the state-of-art techniques, including machine learning and deep learning.
-
+I am Ziyi Li, a Phd students advised by [Prof. Kaiyu Guan](http://faculty.nres.illinois.edu/~kaiyuguan/) at [Department of Natural Resources and Environmental Sciences](https://nres.illinois.edu/), [University of Illinois Urbana-Champaign](https://illinois.edu/). I am conducting multidispline studies to solve problems related to nutrients (nitrogen, phosphorus, and potassium (N, P, and K)) cycling in agroecosystems. As a lifelong learner, I am passionate about exploring state-of-the-art techniques, including machine learning, deep learning, and large language models, to advance our understanding and modeling of complex agricultural systems.
 
 
 
@@ -17,7 +16,7 @@ I am Ziyi Li, a Phd students advised by [Prof. Kaiyu Guan](http://faculty.nres.i
 
 My research interests
 ======
-I am fousing on combining measurements data (field measurements and remote sensing data), and advanced bipgeochemical modeling tools to solve practical problems in agriculture field, including management practices like fertilizer application, crop rotations, and tile drainage. Basically, I want to integrate differents methods to help quantity the nitrogen cycling processes in the environment, like crop N uptake (crop productivity), Nitrous oxide emissions, and nutrients leaching.
+I am fousing on combining measurements data (field measurements and remote sensing data), and advanced mathematical models to solve practical problems in agriculture field, including management practices like fertilizer application, crop rotations, cover crop, tillage, and tile drainage. Basically, I want to integrate differents methods to help quantity the nutrient cycling processes in the environment, like crop uptake (crop productivity), Gasses emissions, and nutrients leaching.
 
 Process-based modeling
 ------
@@ -33,7 +32,7 @@ Data-model fusion
 
 Software development 
 ------
-[Next generation fertilizer application tool](https://harvest.ncsa.illinois.edu/)
+[Next generation fertilizer application tool](https://tools.asc.illinois.edu/)
 
 
 ![Editing a markdown file for a talk](/images/farming.png)
