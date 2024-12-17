@@ -6,8 +6,7 @@ excerpt: 'This study developed an innovative cross-sensing framework integrating
 date: 2023-02-01
 venue: 'Remote Sensing of Environment'
 paperurl: 'https://doi.org/10.1016/j.rse.2022.113366'
-citation: 'Wang, S., Guan, K., Zhang, C., Zhou, Q., Wang, S., Wu, X., Z Li., ... & Ma, Z. (2023). Cross-scale sensing of field-level crop residue cover: Integrating field photos, airborne hyperspectral imaging, and satellite data. Remote Sensing of Environment, 285, 113366.
-'
+citation: 'Wang, S., Guan, K., Zhang, C., Zhou, Q., Wang, S., Wu, X., Z Li., ... & Ma, Z. (2023). Cross-scale sensing of field-level crop residue cover: Integrating field photos, airborne hyperspectral imaging, and satellite data. Remote Sensing of Environment, 285, 113366.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
