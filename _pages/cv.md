@@ -46,5 +46,6 @@ Projects
   
 Service and leadership
 ======
-* Member of American Geophysical Union
+* Member of the American Geophysical Union
+* Member of the American Society of Agronomy
 * Co-founder of RockSeal Studio
