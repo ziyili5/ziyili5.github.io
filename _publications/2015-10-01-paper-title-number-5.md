@@ -6,8 +6,7 @@ excerpt: 'This study uses an advanced process-based model to show that non-growi
 date: 2022-05-07
 venue: 'Agricultural and Forest Meteorology'
 paperurl: 'https://doi.org/10.1016/j.agrformet.2022.109108'
-citation: 'Yang, Y., Liu, L., Zhou, W., Guan, K., Tang, J., Kim, T., ... Li, Z. & Jin, Z. (2022). Distinct driving mechanisms of non-growing season N2O emissions call for spatial-specific mitigation strategies in the US Midwest. Agricultural and Forest Meteorology, 324, 109108.
-'
+citation: 'Yang, Y., Liu, L., Zhou, W., Guan, K., Tang, J., Kim, T., ... Li, Z. & Jin, Z. (2022). Distinct driving mechanisms of non-growing season N2O emissions call for spatial-specific mitigation strategies in the US Midwest. Agricultural and Forest Meteorology, 324, 109108.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
