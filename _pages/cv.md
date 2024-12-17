@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Hydrology and Water Resources Engineering, Wuhan University, 2017
-* M.S. in Hydraulic Engineering, Wuhan University, 2019
+* B.S. & M.S. in Hydrology and Water Resources Engineering, Wuhan University, 2019
 * Ph.D in Natural Resources and Environmental Sciences (Minor in Statistics), University of Illinois-Champaign, 2024
 
 Experience
